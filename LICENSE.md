@@ -1,4 +1,4 @@
-
+Enhance Ulysses for macOS with custom Plugin for Ulysses for macOS - calendar integration and markdown support, the #1 plugin. Includes calendar integration and markdown support
 
 
 
